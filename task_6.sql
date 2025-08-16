@@ -1,5 +1,5 @@
 USE alx_book_store
-SELECT * FROM customer
+SELECT * FROM customer_id
 INSERT INTO  customer(`customer_id`,`customer_name` = `Blessing Malik`,`email` = `bmalik@sandtech.com`,
 `address` = `124 Happiness  Ave.`)
 VALUES(`2`,`Blessing Malik`,`bmalik@sandtech.com`,`124 Happiness  Ave.`)
